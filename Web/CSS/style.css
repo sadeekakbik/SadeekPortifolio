@@ -253,6 +253,7 @@ ul{
     max-width: 500px;
     -webkit-text-stroke:2px #dfdfdf ;
     -webkit-text-fill-color:transparent ;
+    text-transform: uppercase;
 }
 .works .wrk .workText .det{
     font-size: 14px;
